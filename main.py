@@ -1,2 +1,2 @@
-def Dividers(x, y):
-    return 12 / 4 
+def Dividers(x,y):
+    return int(x) / int(y)
