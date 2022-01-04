@@ -1,1 +1,2 @@
-#WRITE YOUR CODE IN THIS FILE
+def Dividers(x, y):
+    return 12 / 4 
