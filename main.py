@@ -1,3 +1,3 @@
 def Dividers(x, y):
-    return 4 / 2
+    return x / y
 Dividers (4 , 2)
