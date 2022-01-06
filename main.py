@@ -1,3 +1,3 @@
-def divider(x, y):
+def diviDer(x, y):
     return x / y
-divider (4 , 2)
+diviDer (4 , 2)
